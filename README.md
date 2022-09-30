@@ -1,9 +1,9 @@
 
-![MasterHead](https://i.hizliresim.com/mscd6c0.gif)
+![MasterHead](https://gsyslab.com/wp-content/uploads/2021/11/mobile-development-process-gsyslab.gif)
 <h1 align="center">Hi 👋, I'm İlkay ÇELİK</h1>
 <h3 align="center">A passionate and nosy Mobile developer from Turkey</h3>
 
-<img align="right" alt="Coding" width="400" src="http://codifttechnologies.com/wp-content/uploads/2021/01/Mobile-app-development.gif">
+<img align="right" alt="Coding" width="600" src="https://miro.medium.com/max/720/1*_wj0oE7Wjy909b-TGD02dA.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iccforcode&label=Profile%20views&color=ff4500&style=flat" alt="iccforcode" /> </p>
