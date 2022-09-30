@@ -13,13 +13,11 @@
 
 - 🔭 I’m  working on **''Looking For Company''**
 
-- 🏆 I've learned **Flutter SDK, Dart Programming Language, GIT.**
+- 🏆 A lifelong learner and I've learned **Flutter SDK, Dart Programming Language, GIT.**
 
 - 👯 Enthusiastic Mobile App Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 
 - 📝 Believes in the importance of learning new things every day.
-
-- ✨ A lifelong learner.
 
 - 👨‍💻 Motivated to learn, grow and excel in IT industry.
 
