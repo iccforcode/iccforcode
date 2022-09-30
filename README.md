@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm İlkay ÇELİK</h1>
 <h3 align="center">A passionate and nosy Mobile developer from Turkey</h3>
 
-<img align="right" alt="Coding" width="520" src="https://miro.medium.com/max/720/1*_wj0oE7Wjy909b-TGD02dA.gif">
+<img align="right" alt="Coding" width="510" src="https://miro.medium.com/max/720/1*_wj0oE7Wjy909b-TGD02dA.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iccforcode&label=Profile%20views&color=ff4500&style=flat" alt="iccforcode" /> </p>
