@@ -45,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icforcode&theme=dark" alt="icforcode" /></p>
 
 
-[gmail]: https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=devicsocail@gmail.com
+[gmail]: https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=icforcode@gmail.com
 [linkedin]: https://www.linkedin.com/in/ilkaycelik/
 
 
