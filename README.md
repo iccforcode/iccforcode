@@ -1,7 +1,7 @@
 
 ![MasterHead](https://gsyslab.com/wp-content/uploads/2021/11/mobile-development-process-gsyslab.gif)
 <h1 align="center">Hi 👋, I'm İlkay ÇELİK</h1>
-<h3 align="center">A passionate and nosy Mobile developer from Turkey</h3>
+<h3 align="center">A passionate and nosy mobile developer from Turkey</h3>
 
 <img align="right" alt="Coding" width="512" src="https://miro.medium.com/max/720/1*_wj0oE7Wjy909b-TGD02dA.gif">
 
